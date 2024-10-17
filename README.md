@@ -34,7 +34,7 @@
             <a href="#" class="btn">Comenzar Trámite</a>
         </div>
     </section>
-
+<body>
     <!-- Sección de Beneficios -->
     <section class="benefits">
         <div class="container">
@@ -55,7 +55,7 @@
             </div>
         </div>
     </section>
-
+<body>
     <!-- Testimonios -->
     <section class="testimonials">
         <div class="container">
@@ -72,7 +72,7 @@
             </div>
         </div>
     </section>
-
+<body>
     <!-- Footer -->
     <footer>
         <div class="container">
