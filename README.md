@@ -1,5 +1,5 @@
 # AmeriVisa.github.io
-Pagina Principal
+
 <!DOCTYPE html>
 <html lang="es">
 <head>
