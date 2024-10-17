@@ -25,7 +25,7 @@
             </nav>
         </div>
     </header>
-
+<body>
     <!-- Banner Principal -->
     <section class="hero">
         <div class="container">
